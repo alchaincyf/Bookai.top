@@ -74,9 +74,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '教程',
+            label: ' ChatGPT教程',
           },
-         // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/ChatGPT Prompt-Professionals', label: ' ChatGPT提示词', position: 'left'},
+          {to: '/docs/MidJourney提示词进阶', label: ' MidJourney教程', position: 'left'},
         //  {
          //   href: 'https://github.com/facebook/docusaurus',
           //  label: 'GitHub',
