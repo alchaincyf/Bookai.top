@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BookAI.top',
-  tagline: '你的第一本AI学习之书，带你走向AI未来',
+  tagline: '你的第一本AI学习书，带你走向AI未来',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -76,8 +76,8 @@ const config = {
             position: 'left',
             label: ' ChatGPT教程',
           },
-          {to: '/docs/ChatGPT Prompt-Professionals', label: ' ChatGPT提示词', position: 'left'},
-          {to: '/docs/MidJourney提示词进阶', label: ' MidJourney教程', position: 'left'},
+         // {to: '/docs/ChatGPT Prompt-Professionals', label: ' ChatGPT提示词', position: 'left'},
+          //{to: '/docs/MidJourney提示词进阶', label: ' MidJourney教程', position: 'left'},
         //  {
          //   href: 'https://github.com/facebook/docusaurus',
           //  label: 'GitHub',
