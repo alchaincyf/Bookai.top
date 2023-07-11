@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AI第一课',
-  tagline: '带你走过AI使用从0到1的过程',
+  title: 'BookAI.top',
+  tagline: '你的第一本AI学习之书，带你走向AI未来',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: ' AI第一课',
+        title: ' BookAI',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
