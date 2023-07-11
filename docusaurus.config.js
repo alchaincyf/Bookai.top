@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ChatGPT精进指南',
+  title: 'AI第一课',
   tagline: '带你走过AI使用从0到1的过程',
   favicon: 'img/favicon.ico',
 
