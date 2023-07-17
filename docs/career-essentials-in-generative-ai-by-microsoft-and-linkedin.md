@@ -136,7 +136,8 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - your organization's obligation to appease shareholders against your obligations to humanity
 
-答案：getting creative generative Al output and optimizing production while maintaining human oversight (在保持人类监督的同时，获得创新的生成性AI输出并优化生产)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
+
 
 11. 问题：What Al ethics violation might your chatbot release have caused?
 
@@ -148,7 +149,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - You have not properly protected your technology from misuse.
 
-答案：Your technology assisted a human rights violation. (你的技术助长了人权侵犯)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 12. 问题：How does ChatGPT make sense of the world?
 
@@ -160,7 +161,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - It learns the world by observing humans and mimics their behavior.
 
-答案：It draws on a vast dataset of preexisting text and generates output based on patterns it has observed. (它通过读取大量已有的文本数据，根据观察到的模式生成输出)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 13. 问题：If you asked the AI "what is your favorite color?" and the AI responded with "I don't have feelings or preferences, so I don't have a favorite color," is the AI being honest?
 
@@ -172,7 +173,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - The AI is being honest because it is mimicking human behavior.
 
-答案：The AI is being honest. It is incapable of having feelings or preferences. (AI在说实话。它无法拥有感觉或偏好)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 14. 问题：What does an AI use to determine which results to display?
 
@@ -184,7 +185,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - It uses a mathematical equation to calculate the best result.
 
-答案：It uses a combination of your search history and the keywords you type in. (它使用你的搜索历史和你输入的关键词的组合来确定要显示的结果)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 15. 问题：A national newspaper reporter is writing a story on generative Al. As part of the story, they chat for hours with a new online generative chatbot. A few hours into the conversation, the chatbot tries to convince the reporter to leave his partner. The chatbot company said they don't know why it gave these responses and will limit conversations to 30 minutes. What might be one of the biggest ethical challenges with this system?
 
@@ -196,7 +197,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - The system has access to tremendous amounts of data, so it can offer hard but truthful advice.
 
-答案：There isn't enough transparency into how the chatbot is responding. (对聊天机器人如何回应的透明度不足)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 16. 问题：What does the term model mean in generative Al?
 
@@ -208,7 +209,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - A model is Al mimicking human behavior.
 
-答案：A model is a set of algorithms that have been trained on a data set. (模型是一组在数据集上训练过的算法)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 17. 问题：What is a good description of how a machine learning system operates?
 
@@ -220,7 +221,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - An Al system generates content as opposed to just classifying existing data.
 
-答案：A system "learns" by observing patterns in massive datasets. (系统通过观察大量数据集中的模式进行“学习”)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 18. 问题：Your online movie-streaming business wants to create an artificial neural network that can recommend new movies based on what customers have already seen. The team creates a series of XY diagrams of different film genres. Then it puts the film rating along the X-axis and the duration that people watch on the Y-axis. It then makes a recommendation based on how close movies are to each other on the chart. What type of machine learning algorithm is the team using?
 
@@ -232,7 +233,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - reinforcement learning
 
-答案：K-nearest neighbor (K-最近邻)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 19. 问题：You are going to use machine learning to try and do a better job predicting the weather. To start out, you just want to classify two weather events: "rain" or "not rain." What steps would you take to build this system?
 
@@ -244,7 +245,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - Use generative Al to create a whole new weather system.
 
-答案：Train a supervised learning binary classification system with past weather data. (使用过去的天气数据来训练一个监督学习的二元分类系统)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 19. 问题：You are a technical manager for a large city courthouse. The judges have asked you to implement a new system that will make criminal sentencing recommendations. As part of your testing, your team has the system make sentencing recommendations for past court convictions. Your team finds that the new system is much more likely to recommend longer sentences for some groups of people. What is the main ethical challenge with implementing this system?
 
@@ -256,7 +257,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - The city courthouse might not be able to afford the service.
 
-答案：It magnifies existing biases rather than mitigating them. (它放大了现有的偏见，而不是减轻了偏见)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 20. 问题：Your company wants to create a smartphone application that identifies plants using the phone's camera. The company purchases millions of digital images of plants labeled with the species names. You use this initial batch of images to train your artificial neural network. What type of machine learning are you using for your network?
 
@@ -268,7 +269,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - self-supervised learning
 
-答案：supervised learning (监督学习)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 21. 问题：You are an executive for a large company that has a customer service department. Recently some of the top managers have been talking about replacing customer service representatives with an Al chatbot. Some of the managers feel like the chatbot should impersonate a human customer service representative. They argue that if customers know it's an Al chatbot then they would immediately disconnect. Other managers feel like it would be unethical to impersonate a human. What would be the best place to communicate your decision?
 
@@ -280,7 +281,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - The executives should leave it to the product development team.
 
-答案：Create a Responsible Al Policy and Governance framework. (创建一个负责任的AI政策和治理框架)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 22. 问题：Typically, what are the three layers of an artificial neural network?
 
@@ -292,7 +293,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - the artificial layer, the machine learning layer, and the data layer
 
-答案：the input layer, many hidden layers, and the output layer (输入层、多个隐藏层和输出层)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 23. 问题：You're trying to get better at prompt engineering, so you decided to try a new technique. You say, "Write a 500-word essay on large language models and hallucinations from the perspective of a computer science graduate student at a university." What technique are you using here?
 
@@ -304,7 +305,7 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - You are using a compression technique by limiting the results to 500 words.
 
-答案：You are using role-playing to get more accurate responses. (你正在使用角色扮演技术以获得更准确的回答)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
 
 24. 问题：Why did early artificial intelligence systems do so well with board games?
 
@@ -316,4 +317,4 @@ B站课程介绍视频：https://www.bilibili.com/video/BV1kh4y177Lu/?vd_source=
 
 - Because computer scientists could do a good job programming all the rules into the game that the system would understand.
 
-答案：Because even with their limiting processing power, early systems thrived in a world of simple rules and pattern matching. (即使在处理能力有限的情况下，早期系统也能在有简单规则和模式匹配的世界中茁壮成长)
+更多答案可从我的专栏获取：https://xiaobot.net/post/d3174f88-597a-47ca-91bc-a3e88e9a7f5e
