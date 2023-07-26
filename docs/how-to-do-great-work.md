@@ -1,3 +1,5 @@
+
+
 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it.
 
 如果你从许多不同领域收集做出优秀工作的技巧列表，那么这些列表的交集是什么样的？我决定亲自尝试找出答案。
@@ -459,7 +461,11 @@ The aggressively independent-minded are the naughty ones. Rules don't merely fai
 
 The other way to break rules is not to care about them, or perhaps even to know they exist. This is why novices and outsiders often make new discoveries; their ignorance of a field's assumptions acts as a source of temporary passive independent-mindedness. Aspies also seem to have a kind of immunity to conventional beliefs. Several I know say that this helps them to have new ideas.
 
+对规则的另一种打破方式是不关心它们，甚至可能不知道它们存在。这就是为什么新手和局外人经常能做出新的发现；他们对一个领域的假设的无知暂时充当了一种被动的独立思维的源泉。亚斯伯格综合症患者似乎也对传统信念有一种免疫力。我认识的几个人说，这帮助他们有新的想法。
+
 Strictness plus rule-breaking sounds like a strange combination. In popular culture they're opposed. But popular culture has a broken model in this respect. It implicitly assumes that issues are trivial ones, and in trivial matters strictness and rule-breaking are opposed. But in questions that really matter, only rule-breakers can be truly strict.
+
+严格加上打破规则听起来像是一个奇怪的组合。在流行文化中，它们是对立的。但是在这方面，流行文化有一个破碎的模型。它隐含地假设问题是微不足道的，而在微不足道的事情上，严格和打破规则是对立的。但在真正重要的问题上，只有打破规则的人才能真正严格。
 
 
 
