@@ -9,9 +9,9 @@ Partly my goal was to create a guide that could be used by someone working in an
 The following recipe assumes you're very ambitious.
 
 以下步骤适用于有雄心壮志的你。
-
-
-
+ 
+ 
+ 
 
 The first step is to decide what to work on. The work you choose needs to have three qualities: it has to be something you have a natural aptitude for, that you have a deep interest in, and that offers scope to do great work.
 
