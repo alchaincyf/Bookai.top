@@ -90,8 +90,8 @@ const config = {
         ],
       },
       gtag: {
-        trackingID: 'prj_CarlibCfSgIfyAicJkI35jN8tG0N',
-        //trackingID: 'G-8T0M4Q3Q8W',
+        //trackingID: 'prj_CarlibCfSgIfyAicJkI35jN8tG0N',
+        trackingID: 'G-8T0M4Q3Q8W',
         anonymizeIP: true,
       },
       footer: {
