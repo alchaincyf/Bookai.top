@@ -4,6 +4,12 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const { init } = require('@vercel/analytics')
+
+init('prj_CarlibCfSgIfyAicJkI35jN8tG0N')
+
+
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BookAI.top',
