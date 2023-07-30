@@ -152,6 +152,9 @@ const config = {
 //module.exports = config;
 module.exports = {
   // ... 其他配置
+  title: 'BookAI.TOP',
+  url: 'https://www.BookAI.top',
+  baseUrl: '/docs/',
   themeConfig: {
     // ... 其他配置
     gtag: {
@@ -160,4 +163,5 @@ module.exports = {
     },
   },
 };
+
 
