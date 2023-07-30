@@ -89,11 +89,20 @@ const config = {
          // },
         ],
       },
-      gtag: {
-        //trackingID: 'prj_CarlibCfSgIfyAicJkI35jN8tG0N',
-        trackingID: 'G-8T0M4Q3Q8W',
-        anonymizeIP: true,
-      },
+
+      plugins: [
+        [
+          '@docusaurus/plugin-google-gtag',
+          {
+        // 你可以选择是否将用户 IP 地址设置为匿名
+            anonymizeIP: true, 
+        // 这里是你的 Google Analytics 测量 ID
+            trackingIds: ['G-8T0M4Q3Q8W'], 
+          },
+        ],
+      ],
+
+
       footer: {
         style: 'dark',
         links: [
@@ -156,4 +165,9 @@ const config = {
 
 module.exports = config;
 
+
+      //gtag: {
+        //trackingID: 'prj_CarlibCfSgIfyAicJkI35jN8tG0N',
+      //  anonymizeIP: true,
+      //},
 
