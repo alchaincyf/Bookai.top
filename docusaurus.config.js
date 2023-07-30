@@ -89,6 +89,11 @@ const config = {
          // },
         ],
       },
+      gtag: {
+        trackingID: 'prj_CarlibCfSgIfyAicJkI35jN8tG0N',
+        //trackingID: 'G-8T0M4Q3Q8W',
+        anonymizeIP: true,
+      },
       footer: {
         style: 'dark',
         links: [
@@ -149,19 +154,6 @@ const config = {
     }),
 };
 
-//module.exports = config;
-module.exports = {
-  // ... 其他配置
-  title: 'BookAI.TOP',
-  url: 'https://www.BookAI.top',
-  baseUrl: '/docs/',
-  themeConfig: {
-    // ... 其他配置
-    gtag: {
-      trackingID: 'prj_CarlibCfSgIfyAicJkI35jN8tG0N',
-      anonymizeIP: true,
-    },
-  },
-};
+module.exports = config;
 
 
