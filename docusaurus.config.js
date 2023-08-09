@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Alchain花生', // Usually your GitHub org/user name.
+  projectName: 'BookAI.top', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,6 +66,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      scripts: [
+        {
+          src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7522094408813551',
+          async: true,
+          crossorigin: 'anonymous',
+        },
+      ],
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: ' BookAI',
@@ -89,14 +96,6 @@ const config = {
            // position: 'right',
          // },
         ],
-        scripts: [
-          {
-            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7522094408813551',
-            async: true,
-            crossorigin: 'anonymous'
-          },
-        ],
-      },
 
       plugins: [
         [
