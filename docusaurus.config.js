@@ -80,6 +80,7 @@ const config = {
             position: 'left',
             label: ' ChatGPT教程',
           },
+
          // {to: '/docs/ChatGPT Prompt-Professionals', label: ' ChatGPT提示词', position: 'left'},
           //{to: '/docs/MidJourney提示词进阶', label: ' MidJourney教程', position: 'left'},
         //  {
@@ -87,6 +88,13 @@ const config = {
           //  label: 'GitHub',
            // position: 'right',
          // },
+        ],
+        scripts: [
+          {
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7522094408813551',
+            async: true,
+            crossorigin: 'anonymous'
+          },
         ],
       },
 
