@@ -1,4 +1,4 @@
-
+# 如何取得卓越成就（中英双语版）——Paul Graham
 
 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it.
 
