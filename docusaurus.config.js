@@ -125,13 +125,17 @@ const config = {
 // 在 docusaurus.config.js
 module.exports = {
   // ...其他配置...
+  title:'最佳ChatGPT学习网站bookai.top',
+  url: 'https://www.bookai.top',
+  baseUrl: '/docs/intro',
+  // ...其他配置...
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
           // ...其他文档配置...
-          routeBasePath: '/', // 将文档的基础路径设置为根路径
+          routeBasePath: '/docs', // 将文档的基础路径设置为根路径
           homePageId: 'intro', // 你的首页文档的ID
         },
         // ...其他配置...
