@@ -127,7 +127,7 @@ module.exports = {
   // ...其他配置...
   title:'最佳ChatGPT学习网站bookai.top',
   url: 'https://www.bookai.top',
-  baseUrl: '/docs/intro',
+  baseUrl: '/',
   // ...其他配置...
   presets: [
     [
