@@ -1,6 +1,8 @@
 ---
-sidebar_position: 1
+title: 我的主页
+slug: /
 ---
+
 # ChatGPT最佳学习网站
 
 ChatGPT的使用是一门实践的艺术。在这个网站中，我致力于用我新鲜、一手、深度的实操经验给你带去启发。
