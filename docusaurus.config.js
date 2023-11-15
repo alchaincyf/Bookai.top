@@ -8,11 +8,11 @@ const { init } = require('@vercel/analytics');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BookAI.top',
+  title: ' ChatGPT最佳中文学习网站',
   tagline: '你的第一本AI学习书，带你走向AI未来',
   favicon: 'img/favicon.ico',
   url: 'https://bookai.top',
-  baseUrl: '/',
+  baseUrl: '/doc/intro',
   organizationName: 'Alchain花生',
   projectName: 'BookAI.top',
   onBrokenLinks: 'throw',
