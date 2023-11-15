@@ -21,15 +21,7 @@ const config = {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
   },
-  plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        anonymizeIP: true,
-        trackingId: 'G-8T0M4Q3Q8W',
-      },
-    ],
-  ],
+
   presets: [
     [
       'classic',
