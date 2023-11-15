@@ -1,6 +1,5 @@
 ---
-title: 我的主页
-slug: /
+sidebar_position: 1
 ---
 
 # ChatGPT最佳学习网站

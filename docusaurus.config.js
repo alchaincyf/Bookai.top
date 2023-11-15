@@ -123,5 +123,5 @@ const config = {
 };
 
 // 在 docusaurus.config.js
-module.exports ;
+module.exports;
 
