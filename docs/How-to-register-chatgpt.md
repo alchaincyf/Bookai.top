@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
+
 # 怎么注册使用ChatGPT Plus？
 
 ## 一、如何在 ChatGPT 官网注册和使用 ChatGPT？
