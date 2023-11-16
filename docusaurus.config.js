@@ -12,7 +12,7 @@ const config = {
   tagline: '你的第一本AI学习书，带你走向AI未来',
   favicon: 'img/favicon.ico',
   url: 'https://bookai.top',
-  baseUrl: '/doc/intro',
+  baseUrl: '/',
   organizationName: 'Alchain花生',
   projectName: 'BookAI.top',
   onBrokenLinks: 'throw',
@@ -123,5 +123,4 @@ const config = {
 };
 
 // 在 docusaurus.config.js
-module.exports;
-
+module.exports = config;
