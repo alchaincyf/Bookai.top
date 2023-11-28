@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: ' ChatGPT Prompt提示词',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Img: require('@site/static/img/2.png').default,
     description: (
       <>
         ChatGPT的使用是一门实践的艺术，我们通过提供一系列不同职业和生活场景下你可用的结构化提示词，让你获得启发.
