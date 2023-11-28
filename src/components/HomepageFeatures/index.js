@@ -2,7 +2,6 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const promptTipsImage = require('@site/static/img/2.png').default;
 const FeatureList = [
   {
     title: ' ChatGPT教程',
@@ -15,7 +14,7 @@ const FeatureList = [
   },
   {
     title: ' ChatGPT Prompt提示词',
-    Img: promptTipsImage,
+    Svg: require('@site/static/img/2.png').default,
     description: (
       <>
         ChatGPT的使用是一门实践的艺术，我们通过提供一系列不同职业和生活场景下你可用的结构化提示词，让你获得启发.
