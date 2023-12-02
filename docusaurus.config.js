@@ -20,24 +20,15 @@ const config = {
   i18n: {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
-  head: [
-    {
-      tagName: 'script',
-      attributes: {
-        async: true,
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-9DMWY1GPXG',
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-9DMWY1GPXG',
+        // 这里可以添加其他配置选项，如下所示：
+        // anonymizeIP: true, // 可选，默认为 false
       },
-    },
-    {
-      tagName: 'script',
-      innerHTML: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-9DMWY1GPXG');
-      `,
-    },
+    ],
   ],
   },
 
