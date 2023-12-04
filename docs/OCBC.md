@@ -3,6 +3,7 @@ sidebar_position: 99999
 ---
 # 境外银行-新加坡华侨银行OCBC线上开户指南
 15新币推荐码：Z3U9FDOS
+视频开户教程：https://www.youtube.com/watch?v=XmZRl8Lp9YY
 
 ![新加坡华侨银行OCBC讨论区](OCBC.JPG)
 如遇二维码失效，欢迎添加我的小助理微信 ALCHAIN2 入群（添加时注明加OCBC群）
