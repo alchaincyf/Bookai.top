@@ -59,7 +59,7 @@ sidebar_position: 1
 
 ## 四、银河录像局的资质介绍
 
-银河录像局是一家新兴的流媒体和AI工具合租拼车平台，主要提供各类流媒体与生产力工具的合租服务，如Netflix、Disney+、HBO、AppleTV+、Midjourney、ChatGPT、PrimeVideo等。这个平台由杭州崇宇信息科技有限公司运营，实力不错，已经服务过10万+客服，并在各大社交媒体平台上有账号。他们的服务目标是为广大用户提供卓越的在线娱乐与生产力解决方案，致力于提供便捷、高效且稳定的服务。
+[银河录像局](https://nf.video/o9jj0s)是一家新兴的流媒体和AI工具合租拼车平台，主要提供各类流媒体与生产力工具的合租服务，如Netflix、Disney+、HBO、AppleTV+、Midjourney、ChatGPT、PrimeVideo等。这个平台由杭州崇宇信息科技有限公司运营，实力不错，已经服务过10万+客服，并在各大社交媒体平台上有账号。他们的服务目标是为广大用户提供卓越的在线娱乐与生产力解决方案，致力于提供便捷、高效且稳定的服务。
 
 银河录像局的特点和优势包括：
 
@@ -73,7 +73,7 @@ sidebar_position: 1
 
 ## 五、环球巴士的资质介绍
 
-环球巴士（UniversalBus）是一个提供一站式流媒体合租服务的平台。该平台主要专注于提供包括Netflix、Spotify、Tidal、HBO、HBO GO、YouTube、Disney+等在内的流媒体账号合租服务。环球巴士的服务特点包括自动化交付、无忧售后服务，以及贴心的价格策略。
+[环球巴士（UniversalBus）]((https://universalbus.cn/?s=5HCba2gPfO))是一个提供一站式流媒体合租服务的平台。该平台主要专注于提供包括Netflix、Spotify、Tidal、HBO、HBO GO、YouTube、Disney+等在内的流媒体账号合租服务。环球巴士的服务特点包括自动化交付、无忧售后服务，以及贴心的价格策略。
 
 这个平台原名是奈飞站，现在也拓展了ChatGPT Plus会员、Midjourney、POE等AI工具的账号共享服务。
 
