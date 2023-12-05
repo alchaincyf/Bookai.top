@@ -1,6 +1,6 @@
 {
   "label": "ChatGPT 进阶教程",
-  "position": 3,
+  "position": 500,
   "link": {
     "type": "generated-index",
     "description": "在这个板块，我们会逐步深入ChatGPT的高级能力和工具，比如ChatGPT可以使用DALLE模型生成图像、具有网页浏览能力、可以使用Code Interpreter代码解释器能力助力数据分析等，同时也会教你如何制作出属于自己的GPTs."

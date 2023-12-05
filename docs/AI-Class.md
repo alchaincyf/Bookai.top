@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 3
 ---
 # 我的专栏「ChatGPT精进指南」介绍
 

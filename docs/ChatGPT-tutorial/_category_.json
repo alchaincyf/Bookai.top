@@ -1,6 +1,6 @@
 {
   "label": "ChatGPT 入门教程",
-  "position": 2,
+  "position": 400,
   "link": {
     "type": "generated-index",
     "description": "在这个板块，我会通过告诉你什么是AI，什么是GPT，ChatGPT是怎么被训练出来的等方面入手，从底层到应用，逐步告诉你ChatGPT的特点和使用技巧，让你实现从0到1."
