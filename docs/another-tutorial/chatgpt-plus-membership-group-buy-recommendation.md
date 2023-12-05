@@ -73,7 +73,7 @@ sidebar_position: 1
 
 ## 五、环球巴士的资质介绍
 
-[环球巴士（UniversalBus）]((https://universalbus.cn/?s=5HCba2gPfO))是一个提供一站式流媒体合租服务的平台。该平台主要专注于提供包括Netflix、Spotify、Tidal、HBO、HBO GO、YouTube、Disney+等在内的流媒体账号合租服务。环球巴士的服务特点包括自动化交付、无忧售后服务，以及贴心的价格策略。
+[环球巴士（UniversalBus）](https://universalbus.cn/?s=5HCba2gPfO)是一个提供一站式流媒体合租服务的平台。该平台主要专注于提供包括Netflix、Spotify、Tidal、HBO、HBO GO、YouTube、Disney+等在内的流媒体账号合租服务。环球巴士的服务特点包括自动化交付、无忧售后服务，以及贴心的价格策略。
 
 这个平台原名是奈飞站，现在也拓展了ChatGPT Plus会员、Midjourney、POE等AI工具的账号共享服务。
 
