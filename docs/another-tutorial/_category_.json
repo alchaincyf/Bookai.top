@@ -1,0 +1,8 @@
+{
+  "label": "其他资料与教程",
+  "position": 9999,
+  "link": {
+    "type": "generated-index",
+    "description": "这部分我会提供一些我在视频中介绍的工具，以及提供一些好用的推荐."
+  }
+}
