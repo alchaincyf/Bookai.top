@@ -71,11 +71,9 @@ const config = {
           label: 'ChatGPT教程',
         },
         {
-          type: 'doc',
-          docId: 'chatgpt-plus',
           position: 'left',
           label: 'ChatGPT Plus购买',
-          href: 'https://nf.video/qdguks'
+          to: 'https://nf.video/qdguks'
         },
       ],
     },
