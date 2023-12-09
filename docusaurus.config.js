@@ -80,6 +80,11 @@ const config = {
           label: 'Netflix会员购买',
           to: 'https://universalbus.cn?s=5HCba2gPfO'
         },
+       {
+          position: 'left',
+          label: 'Midjourney会员购买',
+          to: 'https://nf.video/qdguks'
+        },
       ],
     },
     footer: {
