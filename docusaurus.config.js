@@ -82,8 +82,8 @@ const config = {
         },
        {
           position: 'left',
-          label: 'Midjourney会员购买',
-          to: 'https://nf.video/qdguks'
+          label: 'Gemini免费体验',
+          to: 'https://gemini.bookai.top'
         },
       ],
     },
