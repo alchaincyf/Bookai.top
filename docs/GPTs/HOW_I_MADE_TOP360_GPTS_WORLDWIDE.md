@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20240116
+sidebar_position: 1
 ---
 # 我做的GPT，在全球300万个GPT中排Top360，这是我的一些经验分享
 
