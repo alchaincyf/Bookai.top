@@ -77,13 +77,13 @@ const config = {
         },
         {
           position: 'left',
-          label: 'AI使用助手 GPT',
-          to: 'https://chat.openai.com/g/g-DHQ7aefMk-aishi-yong-zhu-shou-by-hua-sheng'
-        },
-       {
-          position: 'left',
           label: 'Gemini免费体验',
           to: 'https://gemini.bookai.top'
+        },
+        {
+          position: 'left',
+          label: 'GPTs教程&推荐',
+          to: 'https://www.bookai.top/docs/category/gpts'
         },
       ],
     },
