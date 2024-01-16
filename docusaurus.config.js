@@ -77,8 +77,8 @@ const config = {
         },
         {
           position: 'left',
-          label: 'Netflix会员购买',
-          to: 'https://universalbus.cn?s=5HCba2gPfO'
+          label: 'AI使用助手 GPT',
+          to: 'https://chat.openai.com/g/g-DHQ7aefMk-aishi-yong-zhu-shou-by-hua-sheng'
         },
        {
           position: 'left',
@@ -101,6 +101,23 @@ const config = {
         },
         {
           title: '我开发的AI工具',
+          items: [
+            {
+              label: 'AI阅读助手',
+              href: 'https://chrome.google.com/webstore/detail/ai%E9%98%85%E8%AF%BB%E5%8A%A9%E6%89%8B%EF%BD%9C%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6%EF%BD%9C%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6/mfpmipdckdgjdmaffpehmhckhejkoioa?hl=zh-CN',
+            },
+            {
+              label: 'flomoAI',
+              href: 'https://chrome.google.com/webstore/detail/flomoai-copilot-for-flomo/foaikmlomfjcldgoeijicnbemfjinjmo?hl=zh-CN',
+            },
+            {
+              label: 'ChatGPT for Amazon',
+              href: 'https://chrome.google.com/webstore/detail/chatgpt-for-amazon/aaionafjdcpmogbbhglkhompliakihaa?hl=zh-CN',
+            },
+          ],
+        },
+         {
+          title: '我创建的GPTs',
           items: [
             {
               label: 'AI阅读助手',
