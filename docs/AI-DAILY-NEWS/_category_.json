@@ -1,8 +1,0 @@
-{
-  "label": "每日AI要闻",
-  "position": 9900,
-  "link": {
-    "type": "generated-index",
-    "description": "这个板块我会放上每天最新的AI新闻，就当是对时代的描摹和记录了."
-  }
-}
