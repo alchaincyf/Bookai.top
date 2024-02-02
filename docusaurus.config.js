@@ -77,13 +77,13 @@ const config = {
         },
         {
           position: 'left',
-          label: 'Gemini免费体验',
-          to: 'https://gemini.bookai.top'
+          label: 'GPTs',
+          to: 'https://www.bookai.top/docs/category/gpts'
         },
         {
           position: 'left',
-          label: 'GPTs教程&推荐',
-          to: 'https://www.bookai.top/docs/category/gpts'
+          label: '工信部AIGC职业技能认证',
+          to: 'https://https://yunfei.aigccert.com/'
         },
       ],
     },
