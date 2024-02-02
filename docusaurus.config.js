@@ -83,7 +83,7 @@ const config = {
         {
           position: 'left',
           label: '工信部AIGC职业技能认证',
-          to: 'https://https://yunfei.aigccert.com/'
+          to: 'https://yunfei.aigccert.com/'
         },
       ],
     },
@@ -177,4 +177,4 @@ const config = {
 };
 
 // 在 docusaurus.config.js
-module.exports
+module.exports = config;
