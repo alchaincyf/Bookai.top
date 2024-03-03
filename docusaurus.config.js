@@ -120,6 +120,10 @@ const config = {
           title: '我创建的GPTs',
           items: [
             {
+              label: '更勤奋更聪明的GPT4',
+              href: 'https://chat.openai.com/g/g-vpdGZagEo-geng-qin-fen-geng-cong-ming-de-gpt4',
+            },
+            {
               label: 'AI使用助手 by 花生',
               href: 'https://chat.openai.com/g/g-DHQ7aefMk-aishi-yong-zhu-shou-by-hua-sheng',
             },
@@ -138,10 +142,6 @@ const config = {
             {
               label: '亚马逊SEO专家',
               href: 'https://chat.openai.com/g/g-rR4woshKN-ya-ma-xun-seozhuan-jia-miao-chu-di-dao-ying-wen-shang-pin-ming-cheng-yu-jian-jie',
-            },
-            {
-              label: '极简Logo设计',
-              href: 'https://chat.openai.com/g/g-EdkkIkNTv-ji-jian-logoshe-ji-hui-xiang-ni-jie-shi-she-ji-li-nian-de-logoshe-ji-zhuan-jia',
             },
           ],
         },
