@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 # 全球Top100 GPTs开发者的定制服务
 
@@ -17,11 +17,7 @@ sidebar_position: 1
 
 我制作的GPTs无论从单个GPT的使用量还是开发者维度的统计来说，我都是全球top100的GPT开发者，[「更勤奋更聪明的GPT4」](https://chat.openai.com/g/g-vpdGZagEo-geng-qin-fen-geng-cong-ming-de-gpt4/)基本上是目前全球Top100使用量GPTs中唯一或唯二的中文GPT，并且登上了GPT Store的首页。你可以通过在[GPT Store](https://chat.openai.com/gpts)搜索我的网站“bookai.top”查看我制作的所有GPTs信息。
 
-![截屏2024-05-11 12.32.25.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/abf954c8-c80a-44aa-8d6f-b3c8a0386018/2663c693-a8c4-4356-baa0-b698a860fab1/%E6%88%AA%E5%B1%8F2024-05-11_12.32.25.png)
-
-![截屏2024-05-15 13.46.30.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/abf954c8-c80a-44aa-8d6f-b3c8a0386018/c40e9dd6-e7c4-4b5a-981d-9a63030d3948/%E6%88%AA%E5%B1%8F2024-05-15_13.46.30.png)
-
-![截屏2024-05-15 13.47.22.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/abf954c8-c80a-44aa-8d6f-b3c8a0386018/b1108e11-fbe4-4daa-a324-bbf62e41d509/%E6%88%AA%E5%B1%8F2024-05-15_13.47.22.png)
+![更勤奋更聪明的GPT4](GPT4_Intelligent_Assistant.png)
 
 ## 二、GPTs能做什么？
 
@@ -53,3 +49,4 @@ GPTs有五个基础能力让他能够去解决大多数的问题：
 说实话，我这个服务定价不低，在开始考虑定制前，我比较建议你先查看我B站和Youtube所有的教学视频，以及通过我的[「ChatGPT精进指南」](https://xiaobot.net/p/AIclass)进行自主学习，确实解决不了了再找我。
 
 或者，除了GPTs定制以外，你也可以通过跟我预约语音/视频咨询的方式去解决自己的问题，目前定价为：个人999/小时，企业1999/小时。
+![ChatGPT精进指南](xiaobot.jpeg)
