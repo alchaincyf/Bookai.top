@@ -19,12 +19,12 @@ let rightPressed = false;
 let leftPressed = false;
 
 const brickRowCount = 5;
-const brickColumnCount = Math.floor(canvas.width / (brickWidth + brickPadding));
-const brickWidth = canvas.width / (brickColumnCount + 1) - brickPadding;
-const brickHeight = 20;
 const brickPadding = 10;
+const brickColumnCount = Math.floor(canvas.width / (brickWidth + brickPadding));
+const brickWidth = (canvas.width - brickPadding * (brickColumnCount + 1)) / brickColumnCount;
+const brickHeight = 20;
 const brickOffsetTop = 30;
-const brickOffsetLeft = (canvas.width - (brickWidth + brickPadding) * brickColumnCount + brickPadding) / 2;
+const brickOffsetLeft = (canvas.width - (brickWidth + brickPadding) * brickColumnCount) / 2;
 
 let score = 0;
 let lives = 1; // 调整默认生命值为1
