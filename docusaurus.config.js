@@ -72,17 +72,17 @@ const config = {
         },
         {
           position: 'left',
-          label: 'ChatGPT Plus购买',
+          label: 'ChatGPT会员',
           to: 'https://nf.video/qdguks'
         },
         {
           position: 'left',
-          label: 'GPTs',
-          to: 'https://www.bookai.top/docs/category/gpts'
+          label: '微软小冰数字人',
+          to: 'https://clone.iiii.com/login/2AeyMT'
         },
         {
           position: 'left',
-          label: '工信部AIGC职业技能认证',
+          label: '工信部AIGC认证',
           to: 'https://yunfei.aigccert.com/'
         },
       ],
